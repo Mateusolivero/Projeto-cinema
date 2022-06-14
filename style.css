@@ -1,0 +1,47 @@
+body{
+    font-family: arial;
+}
+h1 {
+    text-align: center;
+}
+
+div {
+    background: #111;
+    height: 250px;
+    margin: 20px;
+    border-radius: 4px;
+    
+}
+
+h2 {
+    color: White;
+    font-size: 35px;
+    padding: 40px;
+}
+span{ 
+    color: #febe01;
+    
+}
+
+p{
+    color: #b2b2b2;
+    font-size: 25px;
+    margin-top: -40px;
+    padding-left: 40px;
+}
+
+button{
+position: absolute;
+border-radius: 4px;
+height: 50px;
+background: #febe01;
+color: #332200;
+left: 65px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+
